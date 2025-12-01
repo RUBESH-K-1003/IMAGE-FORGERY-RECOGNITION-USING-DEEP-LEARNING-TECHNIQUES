@@ -3,8 +3,7 @@ A DeepFake Detection System using Xception CNN + Raspberry Pi Deployment
 
 🧩 Overview
 
-This project implements an end-to-end DeepFake detection system using Deep Learning.
-Built using Xception CNN, trained on the FaceForensics++ (FF++) dataset, and deployed on a Raspberry Pi 4, the system can classify faces as REAL or FAKE in images and videos.
+This project implements an end-to-end DeepFake detection system using Deep Learning. Built using Xception CNN, trained on the FaceForensics++ (FF++) dataset, and deployed on a Raspberry Pi 4, the system can classify faces as REAL or FAKE in images and videos.
 
 The project includes a complete pipeline:
 
