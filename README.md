@@ -8,6 +8,7 @@ This project implements an end-to-end DeepFake detection system using Deep Learn
 The project includes a complete pipeline:
 
 ✔ Dataset organization
+
 ✔ Frame extraction
 
 ✔ Face detection & cropping
