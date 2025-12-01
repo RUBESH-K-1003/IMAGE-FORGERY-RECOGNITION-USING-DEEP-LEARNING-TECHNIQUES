@@ -9,10 +9,15 @@ Built using Xception CNN, trained on the FaceForensics++ (FF++) dataset, and dep
 The project includes a complete pipeline:
 
 ✔ Dataset organization
+
 ✔ Frame extraction
+
 ✔ Face detection & cropping
+
 ✔ Deep learning model training
+
 ✔ Real-time inference on videos
+
 ✔ Hardware deployment on Raspberry Pi
 
 🚀 Features
