@@ -42,3 +42,5 @@ Fully deployable on Raspberry Pi 4 for low-power, real-time detection
 Video inference script overlays prediction labels on frames
 
 Clean and modular Python scripts for easy reuse
+
+This project detects whether an image or video is REAL or FAKE using deep learning. It uses the Xception CNN model to identify DeepFake faces and was trained on the FaceForensics++ dataset. The system also works on a Raspberry Pi, making it suitable for real-time, low-power DeepFake detection.
